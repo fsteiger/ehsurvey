@@ -1,5 +1,8 @@
 {
   "name": "daikin-mfr-splitpane",
   "app_id": "",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
